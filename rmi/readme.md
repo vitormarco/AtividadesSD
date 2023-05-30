@@ -1,5 +1,9 @@
 # Projeto RMI de Conta Bancária
 
+
+## Resultado
+<img src="./images/result.gif" />
+
 Este projeto demonstra uma aplicação RMI (Remote Method Invocation) em Java, onde um objeto remoto representa uma conta bancária e vários clientes podem acessá-la. O objeto remoto implementa os métodos de depósito, retirada e saldo.
 
 ## Configuração do Ambiente
